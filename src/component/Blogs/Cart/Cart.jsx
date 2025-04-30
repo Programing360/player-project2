@@ -32,8 +32,8 @@ const Cart = ({ handlePlayerBuy, cartObj }) => {
                 {/* <h2 className='font-bold text-2xl'>{handleSeletedBtn ? '': ''}</h2> */}
                 <h2 className='font-bold text-2xl'>{handleAvailableBtn ? 'Available Player': 'selected Player'}</h2>
                 <div className='border-2 solid rounded-lg' >
-                    <button className='outline-0 bor' onClick={handleAvailableBtn}>Available</button>
-                    <button onClick={handleSeletedBtn}>Selected ({cartObj.length})</button>
+                    <button className='outline-0 bor bgColor' onClick={handleAvailableBtn}>Available</button>
+                    <button className="bgColors" onClick={handleSeletedBtn}>Selected({cartObj.length})</button>
                 </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
@@ -41,7 +41,7 @@ const Cart = ({ handlePlayerBuy, cartObj }) => {
                     cart.map((cart2, idx) => <Carts key={idx} cart={cart2} cart1={cart} handlePlayerBuy={handlePlayerBuy}></Carts>)
                 }
             </div>
-            <Cart2 cartObj={cartObj}></Cart2>
+            {handleSeletedBtn ? <Cart2 cartObj={cartObj}></Cart2> : '' }
         </div>
     );
 };

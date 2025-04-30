@@ -43,7 +43,16 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #0931df;
+  border-color: #f636fa;
+}
+.bgColor:hover{
+  background-color: rgb(193, 138, 213);
+}
+.bgColor{
+  background-color: mediumpurple;
+}
+.bgColors:hover{
+  background-color: coral;
 }
 button:focus,
 button:focus-visible {

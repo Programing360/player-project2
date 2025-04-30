@@ -1,5 +1,6 @@
 import './App.css'
 import Blogs from './component/Blogs/Blogs'
+import Footer from './component/Footer/Footer'
 
 function App() {
   
@@ -9,7 +10,7 @@ function App() {
     <>
       
       <Blogs></Blogs>
-      
+      <Footer></Footer>
       
     </>
   )
