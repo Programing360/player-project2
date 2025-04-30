@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/Kp31kBBW/Getty-Images-110022758-37d2aef944.jpg",
+      "author": "Virat Kohli",
+      "author_img": "https://i.ibb.co.com/8gRcrZmj/264f80349fee9ab497afefa361ac4755.jpg",
+      "price": 500000
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/Kp31kBBW/Getty-Images-110022758-37d2aef944.jpg",
+      "author": "Babar Azam",
+      "author_img": "https://i.ibb.co.com/8gRcrZmj/264f80349fee9ab497afefa361ac4755.jpg",
+      "price": 600000
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/Kp31kBBW/Getty-Images-110022758-37d2aef944.jpg",
+      "author": "Shakib Al Hasan",
+      "author_img": "https://i.ibb.co.com/8gRcrZmj/264f80349fee9ab497afefa361ac4755.jpg",
+      "price": 700000
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/Kp31kBBW/Getty-Images-110022758-37d2aef944.jpg",
+      "author": "Steve Smith",
+      "author_img": "https://i.ibb.co.com/8gRcrZmj/264f80349fee9ab497afefa361ac4755.jpg",
+      "price": 900000
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/Kp31kBBW/Getty-Images-110022758-37d2aef944.jpg",
+      "author": "Joe Root",
+      "author_img": "https://i.ibb.co.com/8gRcrZmj/264f80349fee9ab497afefa361ac4755.jpg",
+      "price": 300000
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co.com/Kp31kBBW/Getty-Images-110022758-37d2aef944.jpg",
+      "author": "Kane Williamson",
+      "author_img": "https://i.ibb.co.com/8gRcrZmj/264f80349fee9ab497afefa361ac4755.jpg",
+      "price": 800000
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co.com/Kp31kBBW/Getty-Images-110022758-37d2aef944.jpg",
+      "author": "Rohit Sharma",
+      "author_img": "https://i.ibb.co.com/8gRcrZmj/264f80349fee9ab497afefa361ac4755.jpg",
+      "price": 2000000
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co.com/Kp31kBBW/Getty-Images-110022758-37d2aef944.jpg",
+      "author": "David Warner",
+      "author_img": "https://i.ibb.co.com/8gRcrZmj/264f80349fee9ab497afefa361ac4755.jpg",
+      "price": 1680000
+    }
+  ]
